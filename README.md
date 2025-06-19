@@ -1,4 +1,7 @@
-# Alumno: Ildefonso Santos Steve Andy
+# Alumnos:
+
+- Ildefonso Santos Steve Andy
+- Marco Antonio Galindo Bendezu
 
 # String Matching
 
